@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid BD \mid = \frac{1}{3}\mid BC\mid, \  \  \mid CE \mid = \frac{1}{3}\mid CA \mid$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid BD \mid = \frac{1}{3}\mid BC\mid, \  \  \mid CE \mid = \frac{1}{3}\mid CA \mid$" title="$\mid BD \mid = \frac{1}{3}\mid BC\mid, \  \  \mid CE \mid = \frac{1}{3}\mid CA \mid$" /></a>
+
+
 You can use the [editor on GitHub](https://github.com/zhouchw5/geometric.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
