@@ -6,7 +6,10 @@ a geometric problem in my second grade in high school. The key words in this art
 Yours,       
 Zhou Mr. Chuwei     
 2018.07.22       
-          
+       
+------------------------------------------------------------------------------------------------------           
+      
+      
           
           
           
@@ -33,7 +36,10 @@ The interesting geometric problem was from the textbook of Mathematics Compulsor
 <center>textbook of Mathematics Compulsory Edition II in high school</center>      
      
       
-Question: In the equilateral triangle ▲ABC,       
+## Question:      
+      
+      
+In the equilateral triangle ▲ABC,       
 ![figure][doge]           
 points D, E are located in the edge BC, AC respectively, satisfying      
 ![formula1][dogc]
@@ -41,7 +47,8 @@ points D, E are located in the edge BC, AC respectively, satisfying
 ![formula1][dogd]         
 - **I would share two of my methods to solve this simple problem, one of which is the conventional coordinate method, the other one is the gift endowed by the sense of vision.**     
                  
-Solutions I: Firsty, we can construct the perpendicular line AO of the edge BC through point A, which would intersect BC at O. 
+## Solutions I:          
+Firsty, we can construct the perpendicular line AO of the edge BC through point A, which would intersect BC at O. 
 Then we can construct a Cartesian coordinate system, with line OC as the X axis and line OA as the y axis:    
 ![figure][dogf]       
 In the equilateral triangle ▲ABC, the coordinate of each vertex can be writen as 
