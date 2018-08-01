@@ -3,10 +3,12 @@
 This article is telling the past when I grabbed the indication from the shape of a skycraper and figured out an innovative way to solve 
 a geometric problem in my second grade in high school. The key words in this article are Geometry, Skycraper, and Checkers.
 
-Yours,
-Zhou Mr. Chuwei
-2018.07.22     
---------------------------     
+Yours,       
+Zhou Mr. Chuwei     
+2018.07.22       
+ --------------------------
+  
+    
 
 This Sunday night I went for a movie named Skyscraper, with my sister who was in her significantly compressed summer vacation before her third year in high school. 
 In the third year she would attend the college entrance examination. Despite that it has been more than five years since I finished the examination and got admitted to my university, 
