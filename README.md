@@ -6,7 +6,7 @@ a geometric problem in my second grade in high school. The key words in this art
 Yours,
 Zhou Mr. Chuwei
 2018.07.22     
--------------     
+--------------------------     
 
 This Sunday night I went for a movie named Skyscraper, with my sister who was in her significantly compressed summer vacation before her third year in high school. 
 In the third year she would attend the college entrance examination. Despite that it has been more than five years since I finished the examination and got admitted to my university, 
@@ -51,7 +51,7 @@ We can simplify the representations and solve the linear equations with two vari
 Currently we know the coordinate of point P can be represented as:      
 <a href="https://www.codecogs.com/eqnedit.php?latex=$P(-2/7,&space;\&space;\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$P(-2/7,&space;\&space;\sqrt{3}/7)$" title="$P(-2/7, \ \sqrt{3}/7)$" /></a>         
 And then we can obtain two vectors:        
-<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" title="$ PC = (9/7, \ -\sqrt{3}/7) \\ \vec{PA} = (2/7, \ 6\sqrt{3}/7)$" /></a>       \
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" title="$ PC = (9/7, \ -\sqrt{3}/7) \\ \vec{PA} = (2/7, \ 6\sqrt{3}/7)$" /></a>       
 Obviously <a href="https://www.codecogs.com/eqnedit.php?latex=$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" title="$PC \cdot \vec{PA} = 0$" /></a>            
 And both PC and PA are nonzero vectors, so we can conclude that          
 <a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>         
