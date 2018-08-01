@@ -1,44 +1,59 @@
-## Welcome to GitHub Pages
+## A Skyscraper and An Innovative geometrical method      
 
+This article is telling the past when I grabbed the indication from the shape of a skycraper and figured out an innovative way to solve 
+a geometric problem in my second grade in high school. The key words in this article are Geometry, Skycraper, and Checkers.
 
+Yours,
+Zhou Mr. Chuwei
+2018.07.22     
+-------------     
+
+This Sunday night I went for a movie named Skyscraper, with my sister who was in her significantly compressed summer vacation before her third year in high school. 
+In the third year she would attend the college entrance examination. Despite that it has been more than five years since I finished the examination and got admitted to my university, 
+I can still understand her physical and mental state in this special stage.     
+     
+
+![post][doga]     
+<center>Dwayne Johnson on the poster</center>       
+     
+This movie has been shot in Hongkong, with a story developed in a fictitious skyscraper, which is located in Victorian Harbour.
+Hands down Hongkong has the most beautiful skyline in the world, with many vast buildings accmmodated in such a tiny island.The breathtaking
+view in the movie still catched my eye though each year I spent much time in Hongkong. And my story with these buildings is further than 
+appreciation of the beauty, but also my appreciation for one of those skycrapers that helped me solve a geometric problem in high school.
+I shared my story with my sister after the movie, to encourage her to keep passion in study.   
+
+The interesting geometric problem was from the textbook of Mathematics Compulsory Edition II, shown as below:       
+![textbook][dogb]       
+<center>textbook of Mathematics Compulsory Edition II in high school</center>      
+     
+      
+Question: In the equilateral triangle ▲ABC,       
+![figure][doge]           
+points D, E are located in the edge BC, AC respectively, satisfying      
 ![formula1][dogc]
+,segment AD and BE intersect at P. We need to prove that:     
+![formula1][dogd]         
+- _I would share two of my methods to solve this simple problem, one of which is the conventional coordinate method, the other one is the 
+gift endowed by the sense of vision.     
+                 
+Solutions I: Firsty, we can construct the perpendicular line AO of the edge BC through point A, which would intersect BC at O. 
+Then we can construct a Cartesian coordinate system, with line OC as the X axis and line OA as the y axis:    
+![figure][dogf]       
+In the equilateral triangle ▲ABC, the coordinate of each vertex can be writen as 
+<a href="https://www.codecogs.com/eqnedit.php?latex=$B(-1,0),&space;C(1,0),&space;A(0,\sqrt{3}&space;)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$B(-1,0),&space;C(1,0),&space;A(0,\sqrt{3}&space;)$" title="$B(-1,0), C(1,0), A(0,\sqrt{3} )$" /></a>       
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\because|CE|&space;=&space;1/3|CA|,&space;|BD|&space;=&space;1/3|BC|$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\because|CE|&space;=&space;1/3|CA|,&space;|BD|&space;=&space;1/3|BC|$" title="$\because|CE| = 1/3|CA|, |BD| = 1/3|BC|$" /></a>         
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\therefore&space;E(2/3,\sqrt{3}/3),&space;D(-1/3,0)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\therefore&space;E(2/3,\sqrt{3}/3),&space;D(-1/3,0)$" title="$\therefore E(2/3,\sqrt{3}/3), D(-1/3,0)$" /></a>       
+Then we need to formula the representations of the straight lines BE and AD, to compute the coordinate of point P.         
+The basic forms of the two straight lines' equation can be shown as:      
+<a href="https://www.codecogs.com/eqnedit.php?latex=$AD:&space;(y-\sqrt{3})/x=y/(x&plus;1/3);\&space;\&space;\&space;BE:y/(x&plus;1)=(y-\sqrt{3}/3)/(x-2/3);$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AD:&space;(y-\sqrt{3})/x=y/(x&plus;1/3);\&space;\&space;\&space;BE:y/(x&plus;1)=(y-\sqrt{3}/3)/(x-2/3);$" title="$AD: (y-\sqrt{3})/x=y/(x+1/3);\ \ \ BE:y/(x+1)=(y-\sqrt{3}/3)/(x-2/3);$" /></a>          
+We can simplify the representations and solve the linear equations with two variables to figure out the coordinate of point P:         
+<a href="https://www.codecogs.com/eqnedit.php?latex=$y-3\sqrt{3}x-\sqrt{3}=0&space;\\&space;5y-\sqrt{3}x-\sqrt{3}=0&space;\\&space;x=-2/7,&space;\&space;y=\sqrt{3}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$y-3\sqrt{3}x-\sqrt{3}=0&space;\\&space;5y-\sqrt{3}x-\sqrt{3}=0&space;\\&space;x=-2/7,&space;\&space;y=\sqrt{3}/7$" title="$y-3\sqrt{3}x-\sqrt{3}=0 \\ 5y-\sqrt{3}x-\sqrt{3}=0 \\ x=-2/7, \ y=\sqrt{3}/7$" /></a>       
+Currently we know the coordinate of point P can be represented as:      
+<a href="https://www.codecogs.com/eqnedit.php?latex=$P(-2/7,&space;\&space;\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$P(-2/7,&space;\&space;\sqrt{3}/7)$" title="$P(-2/7, \ \sqrt{3}/7)$" /></a>         
+And then we can obtain two vectors:        
+<a href="https://www.codecogs.com/eqnedit.php?latex=$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" title="$ PC = (9/7, \ -\sqrt{3}/7) \\ \vec{PA} = (2/7, \ 6\sqrt{3}/7)$" /></a>       \
+Obviously <a href="https://www.codecogs.com/eqnedit.php?latex=$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" title="$PC \cdot \vec{PA} = 0$" /></a>            
+And both PC and PA are nonzero vectors, so we can conclude that          
+<a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>         
 
-You can use the [editor on GitHub](https://github.com/zhouchw5/geometric.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhouchw5/geometric.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-[dogc]:data:image/png;base64,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  
-  
+    
