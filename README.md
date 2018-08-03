@@ -42,7 +42,7 @@ _textbook of Mathematics Compulsory Edition II in high school_
       
       
 In the equilateral triangle ▲ABC,       
-![triange]()         
+![triange](https://github.com/zhouchw5/geometric.github.io/blob/master/figure.png)         
 
 points D, E are located in the edge BC, AC respectively, satisfying      
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;BD&space;\mid&space;=&space;1/3&space;\mid&space;BC\mid,&space;\&space;\&space;\mid&space;CE&space;\mid&space;=&space;1/3&space;\mid&space;CA&space;\mid$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;BD&space;\mid&space;=&space;1/3&space;\mid&space;BC\mid,&space;\&space;\&space;\mid&space;CE&space;\mid&space;=&space;1/3&space;\mid&space;CA&space;\mid$" title="$\mid BD \mid = 1/3 \mid BC\mid, \ \ \mid CE \mid = 1/3 \mid CA \mid$" /></a>         
@@ -54,7 +54,7 @@ segment AD and BE intersect at P. We need to prove that:
 ## Solutions I:          
 Firsty, we can construct the perpendicular line AO of the edge BC through point A, which would intersect BC at O. 
 Then we can construct a Cartesian coordinate system, with line OC as the X axis and line OA as the y axis:    
-![figure]()       
+![triangleandaxis](https://github.com/zhouchw5/geometric.github.io/blob/master/figure2.png)       
 
 
 In the equilateral triangle ▲ABC, the coordinate of each vertex can be writen as 
