@@ -21,7 +21,7 @@ This Sunday night I went for a movie named Skyscraper, with my sister who was in
 In the third year she would attend the college entrance examination. Despite that it has been more than five years since I finished the examination and got admitted to my university, 
 I can still understand her physical and mental state in this special stage.     
      
-
+![post](https://github.com/zhouchw5/geometric.github.io/blob/master/post.jpg)
 ![post][doga]     
 <center>Dwayne Johnson on the poster</center>       
      
