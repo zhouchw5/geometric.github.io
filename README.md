@@ -1,4 +1,4 @@
-## A Skyscraper and An Innovative geometrical method      
+## A Skyscraper and An Innovative Geometrical Method      
 
 This article is telling the past when I grabbed the indication from the shape of a skycraper and figured out an innovative way to solve 
 a geometric problem in my second grade in high school. The key words in this article are Geometry, Skycraper, and Checkers.
@@ -51,7 +51,7 @@ segment AD and BE intersect at P. We need to prove that:
 
 - **I would share two of my methods to solve this simple problem, one of which is the conventional coordinate method, the other one is the gift endowed by the sense of vision.**     
                  
-## Solutions I:          
+## Solution I:          
 Firsty, we can construct the perpendicular line AO of the edge BC through point A, which would intersect BC at O. 
 Then we can construct a Cartesian coordinate system, with line OC as the X axis and line OA as the y axis:    
 ![triangleandaxis](https://github.com/zhouchw5/geometric.github.io/blob/master/figure2.png)       
@@ -78,6 +78,20 @@ And then we can obtain two vectors:
 <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;PC&space;=&space;(9/7,&space;\&space;-\sqrt{3}/7)&space;\\&space;\vec{PA}&space;=&space;(2/7,&space;\&space;6\sqrt{3}/7)$" title="$ PC = (9/7, \ -\sqrt{3}/7) \\ \vec{PA} = (2/7, \ 6\sqrt{3}/7)$" /></a>       
 Obviously <a href="https://www.codecogs.com/eqnedit.php?latex=$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$PC&space;\cdot&space;\vec{PA}&space;=&space;0$" title="$PC \cdot \vec{PA} = 0$" /></a>            
 And both PC and PA are nonzero vectors, so we can conclude that          
-<a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>         
+<a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>           
+            
+- ** The solution above is the conventional method related to these simple geometric problems, which an conscientious math teacher must have imparted to his/her students.But the story would not reach the end right here. The more interesting part would be shown as below.**            
+              
+## Solution II:            
+Firstly we can utilise the trisection points in each edge of the equilateral triangle to divide it into eight small equilateral triangles as below:         
+![Checkersmodel](https://github.com/zhouchw5/geometric.github.io/blob/master/Checkersmodel.png)           
+_It is convenient to extract different combinations of equilateral triangular elements from the this divided figure_             
+
+**The basic framework of this solution**
+              
+We extract the isosceles trapezoid               
+
+
+
 
     
