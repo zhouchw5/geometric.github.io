@@ -90,8 +90,11 @@ _It is convenient to extract different combinations of equilateral triangular el
 I have also made an abbreviation for the divided figure as the Checkers Model shown as below, with the figurative similarity to the checkers.            
 ![checkers](https://github.com/zhouchw5/geometric.github.io/blob/master/checkers.jpg)              
            
-This model            
+This model is also related to the fascinating nightscape on Victorian Harbour and the skycraper shown as below which indicated me to make use of equilateral triangle elements. I believe that beauty always has a moral and life would not forgive a single day without imagination.               
+![skyscrapers](https://github.com/zhouchw5/geometric.github.io/blob/master/skyscraper.jpg)             
 
+          
+          
 - **The basic framework of this solution is to prove the similarity between ▲APJ and ▲CIJ, then we can conclude that AP is perpendicular to CP, which is similar to the relation that AI is perpendicular to IC.**             
             
             
