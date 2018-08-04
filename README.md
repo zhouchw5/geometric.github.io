@@ -80,15 +80,24 @@ Obviously <a href="https://www.codecogs.com/eqnedit.php?latex=$PC&space;\cdot&sp
 And both PC and PA are nonzero vectors, so we can conclude that          
 <a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>           
             
-- ** The solution above is the conventional method related to these simple geometric problems, which an conscientious math teacher must have imparted to his/her students.But the story would not reach the end right here. The more interesting part would be shown as below.**            
+- **The solution above is the conventional method related to these simple geometric problems, which an conscientious math teacher must have imparted to his/her students.But the story would not reach the end right here. The more interesting part would be shown as below.**            
               
 ## Solution II:            
 Firstly we can utilise the trisection points in each edge of the equilateral triangle to divide it into eight small equilateral triangles as below:         
-![Checkersmodel](https://github.com/zhouchw5/geometric.github.io/blob/master/Checkersmodel.png)           
+![Checkersmodel](https://github.com/zhouchw5/geometric.github.io/blob/master/Checkersmodel01.png)           
 _It is convenient to extract different combinations of equilateral triangular elements from the this divided figure_             
+         
+I have also made an abbreviation for the divided figure as the Checkers Model shown as below, with the figurative similarity to the checkers.            
+![checkers](https://github.com/zhouchw5/geometric.github.io/blob/master/checkers.jpg)              
+           
+This model            
 
-**The basic framework of this solution**
-              
+- **The basic framework of this solution is to prove the similarity between ▲APJ and ▲CIJ, then we can conclude that AP is perpendicular to CP, which is similar to the relation that AI is perpendicular to IC.**             
+            
+            
+
+
+
 We extract the isosceles trapezoid               
 
 
