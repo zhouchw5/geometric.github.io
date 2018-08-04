@@ -92,8 +92,11 @@ I have also made an abbreviation for the divided figure as the Checkers Model sh
            
 This model is also related to the fascinating nightscape on Victorian Harbour and the skycraper shown as below which indicated me to make use of equilateral triangle elements. I believe that beauty always has a moral and life would not forgive a single day without imagination.               
 ![skyscrapers](https://github.com/zhouchw5/geometric.github.io/blob/master/skyscraper.jpg)             
-
-          
+           
+           
+           
+           
+           
           
 - **The basic framework of this solution is to prove the similarity between ▲APJ and ▲CIJ, then we can conclude that AP is perpendicular to CP, which is similar to the relation that AI is perpendicular to IC.**             
             
@@ -101,7 +104,12 @@ This model is also related to the fascinating nightscape on Victorian Harbour an
 
 
 
-We extract the isosceles trapezoid               
+We extract the isosceles trapezoid OFBD from the divided figure and show it in a more readable perspective:                
+![trapezoid](https://github.com/zhouchw5/geometric.github.io/blob/master/extracted%20isosceles%20trapezoid.png)                      
+_For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. _            
+            
+            
+    
 
 
 
