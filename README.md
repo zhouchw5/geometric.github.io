@@ -114,7 +114,7 @@ _Both (a) and (b) are partly extractions from the divided figure. Obviously figu
           
 Based on the combination of equilateral triangle elements, we know that in figure (a), |BD|=|DK|=|KE|, and DO // EK, for which ▲BDH is similar to ▲BKE and the similarity coefficient is k=1/2. Thus, |DH|=1/2|KE|=1/2|DO|, H should be the midpoint of DO. Similarly, we can conclude that G is the midpoint of FO. Then we can go back to the isosceles trapezoid ODBF and conclude that |GO| = |HD|, thus we can obtain in the isosceles trapezoid finally:            
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\bigtriangleup&space;OGD&space;\cong&space;\Delta&space;DHB$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\bigtriangleup&space;OGD&space;\cong&space;\Delta&space;DHB$" title="$\bigtriangleup OGD \cong \Delta DHB$" /></a>              
-            
+This congruence relation would grow a new conclusion that ∠CBE = ∠ADO in the divided figure. These two angles are located in ▲PBC and ▲ODA respectively. The relation between these two angles would help us figure out something valuable between the two triangles, which contain ∠PCB and ∠OAD respectively. Thus             
             
 
 
