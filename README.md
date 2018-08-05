@@ -122,7 +122,12 @@ Currently we should go back to the divided figure and extract ▲PBC and ▲ODA:
                 
 Then we collect our maps into one diagram shown as below:         
 ![finalmap](https://github.com/zhouchw5/geometric.github.io/blob/master/finalmap.png)            
-_The relation 
+_Based on the relation ∠CBP = ∠ADO that we obtain from the congruence between ▲OGD and ▲DHB, we just need to compute the numerical relation of |BP| VS |OD|, and |BC| VS |AD|, only with which we can gain enough clues to figure out the relation between ▲PBC and ▲ODA._           
+         
+Thus in the figure (c), we define |OD|=1.           
+Because     
+thus       
+
 
 
             
