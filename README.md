@@ -120,7 +120,9 @@ This congruence relation would grow a new conclusion that ∠CBE = ∠ADO in the
 Currently we should go back to the divided figure and extract ▲PBC and ▲ODA:             
 ![similarextraction](https://github.com/zhouchw5/geometric.github.io/blob/master/twosimilartriangles.png)             
                 
-Then we collect our maps into one diagram shown as below:            
+Then we collect our maps into one diagram shown as below:         
+![finalmap](https://github.com/zhouchw5/geometric.github.io/blob/master/finalmap.png)            
+_The relation 
 
 
             
