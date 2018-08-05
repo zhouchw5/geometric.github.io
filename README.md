@@ -119,6 +119,9 @@ Based on the combination of equilateral triangle elements, we know that in figur
 This congruence relation would grow a new conclusion that ∠CBE = ∠ADO in the divided figure. These two angles are located in ▲PBC and ▲ODA respectively. The relation between these two angles would help us figure out something valuable between the two triangles, which contain ∠JCIand ∠JAP respectively. Thus along this line we can reach a figure revealing the relation between ▲JCI and ▲JAP, the numerical relation between ∠JIC and ∠JPA.         
 Currently we should go back to the divided figure and extract ▲PBC and ▲ODA:             
 ![similarextraction](https://github.com/zhouchw5/geometric.github.io/blob/master/twosimilartriangles.png)             
+                
+Then we collect our maps into one diagram shown as below:            
+
 
             
 
