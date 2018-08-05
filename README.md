@@ -106,7 +106,7 @@ This model is also related to the fascinating nightscape on Victorian Harbour an
 
 We extract the isosceles trapezoid OFBD from the divided figure and show it in a more readable perspective:                
 ![trapezoid](https://github.com/zhouchw5/geometric.github.io/blob/master/extracted%20isosceles%20trapezoid.png)                      
-_For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. Based on the congruence among all equilateral triangle elements, obviously |OF|=|OD|=|DB|, ∠FOD = ∠ODB = 120°, _            
+_For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. Based on the congruence among all equilateral triangle elements, obviously |OF|=|OD|=|DB|, ∠FOD = ∠ODB = 120°,_            
             
             
     
