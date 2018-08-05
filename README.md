@@ -112,7 +112,10 @@ Before exploring the isosceles trapezoid OFBD to grab what we need, we would dis
 ![twoextractedtriangles](https://github.com/zhouchw5/geometric.github.io/blob/master/extraction01.png)          
 _Both (a) and (b) are partly extractions from the divided figure. Obviously figure (a) is congruent to figure (b), with a 120° clockwise rotation._          
           
-Based on the combination of equilateral triangle elements, we know that in figure (a),           
+Based on the combination of equilateral triangle elements, we know that in figure (a), |BD|=|DK|=|KE|, and DO // EK, for which ▲BDH is similar to ▲BKE and the similarity coefficient is k=1/2. Thus, |DH|=1/2|KE|=1/2|DO|, H should be the midpoint of DO. Similarly, we can conclude that G is the midpoint of FO. Then we can go back to the isosceles trapezoid ODBF and conclude that |GO| = |HD|, thus we can obtain in the isosceles trapezoid finally:            
+
+
+   
 
             
             
