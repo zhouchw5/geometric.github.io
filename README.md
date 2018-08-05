@@ -109,8 +109,10 @@ We extract the isosceles trapezoid OFBD from the divided figure and show it in a
 _For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. Based on the congruence among all equilateral triangle elements, obviously |OF|=|OD|=|DB|, ∠FOD = ∠ODB = 120°. Thus the rest orientation of the story is to prove |GO| = |HD|, which means that point G and H should be the midpoints of OF and OD, respectively._            
           
 Before exploring the isosceles trapezoid OFBD to grab what we need, we would discuss the extractions related to proving that point G and H are the midpoints of OF and OD:                 
+![twoextractedtriangles](https://github.com/zhouchw5/geometric.github.io/blob/master/extraction01.png)          
+_Both (a) and (b) are partly extractions from the divided figure. Obviously figure (a) is congruent to figure (b), with a 120° clockwise rotation._          
           
-_Both (a) and (b) are partly extractions from the divided figure.          
+Based on the combination of equilateral triangle elements, we know that in figure (a),           
 
             
             
