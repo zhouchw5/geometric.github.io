@@ -106,7 +106,12 @@ This model is also related to the fascinating nightscape on Victorian Harbour an
 
 We extract the isosceles trapezoid OFBD from the divided figure and show it in a more readable perspective:                
 ![trapezoid](https://github.com/zhouchw5/geometric.github.io/blob/master/extracted%20isosceles%20trapezoid.png)                      
-_For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. Based on the congruence among all equilateral triangle elements, obviously |OF|=|OD|=|DB|, ∠FOD = ∠ODB = 120°,_            
+_For the subsequent arrangement, in this isosceles trapezoid we need to prove the similarity between ▲OGD and ▲DHB. Based on the congruence among all equilateral triangle elements, obviously |OF|=|OD|=|DB|, ∠FOD = ∠ODB = 120°. Thus the rest orientation of the story is to prove |GO| = |HD|, which means that point G and H should be the midpoints of OF and OD, respectively._            
+          
+Before exploring the isosceles trapezoid OFBD to grab what we need, we would discuss the extractions related to proving that point G and H are the midpoints of OF and OD:                 
+          
+_Both (a) and (b) are partly extractions from the divided figure.          
+
             
             
     
