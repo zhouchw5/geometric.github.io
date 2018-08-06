@@ -128,7 +128,12 @@ Thus in the figure (c), we define |OD|=1.
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\because$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\because$" title="$\because$" /></a>
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\triangle&space;OGD&space;\simeq&space;\bigtriangleup&space;DHB$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\triangle&space;OGD&space;\simeq&space;\bigtriangleup&space;DHB$" title="$\triangle OGD \simeq \bigtriangleup DHB$" /></a>                   
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\therefore$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\therefore$" title="$\therefore$" /></a>
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\angle&space;HBD&space;=&space;\angle&space;OGD$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\angle&space;HBD&space;=&space;\angle&space;OGD$" title="$\angle HBD = \angle OGD$" /></a>         
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\angle&space;HBD&space;=&space;\angle&space;ODG$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\angle&space;HBD&space;=&space;\angle&space;ODG$" title="$\angle HBD = \angle ODG$" /></a>          
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\because$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\because$" title="$\because$" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\angle&space;HBD&space;=&space;\angle&space;ODG,&space;\angle&space;DHB&space;=&space;\angle&space;DHB$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\angle&space;HBD&space;=&space;\angle&space;ODG,&space;\angle&space;DHB&space;=&space;\angle&space;DHB$" title="$\angle HBD = \angle ODG, \angle DHB = \angle DHB$" /></a>             
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\therefore&space;\triangle&space;HDK&space;\simeq&space;\triangle&space;HBD$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\therefore&space;\triangle&space;HDK&space;\simeq&space;\triangle&space;HBD$" title="$\therefore \triangle HDK \simeq \triangle HBD$" /></a>              
+
+
 
 
        
