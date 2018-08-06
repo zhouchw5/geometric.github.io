@@ -138,6 +138,10 @@ And based on our definition, |HD| = 1/2|OD| = 1/2, |DB| = |OD| = 1. We know that
 And then based on the similarity
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\triangle&space;HDK&space;\simeq&space;\triangle&space;HBD$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\triangle&space;HDK&space;\simeq&space;\triangle&space;HBD$" title="$\triangle HDK \simeq \triangle HBD$" /></a>,            
 we know that
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;HD&space;\mid&space;/&space;\mid&space;HB&space;\mid&space;=&space;\mid&space;HK&space;\mid&space;/&space;\mid&space;HD&space;\mid$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;HD&space;\mid&space;/&space;\mid&space;HB&space;\mid&space;=&space;\mid&space;HK&space;\mid&space;/&space;\mid&space;HD&space;\mid$" title="$\mid HD \mid / \mid HB \mid = \mid HK \mid / \mid HD \mid$" /></a>              
+so that we can obtain
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" title="$\mid HK \mid = \mid HD \mid^{2}/ \mid HB \mid = \sqrt{7}/14$" /></a>          
+
 
             
             
