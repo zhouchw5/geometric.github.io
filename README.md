@@ -125,8 +125,12 @@ Then we collect our maps into one diagram shown as below:
 _Based on the relation ∠CBP = ∠ADO that we obtain from the congruence between ▲OGD and ▲DHB, we just need to compute the numerical relation of |BP| VS |OD|, and |BC| VS |AD|, only with which we can gain enough clues to figure out the relation between ▲PBC and ▲ODA._           
          
 Thus in the figure (c), we define |OD|=1.           
-Because     
-thus       
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\because$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\because$" title="$\because$" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\triangle&space;OGD&space;\simeq&space;\bigtriangleup&space;DHB$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\triangle&space;OGD&space;\simeq&space;\bigtriangleup&space;DHB$" title="$\triangle OGD \simeq \bigtriangleup DHB$" /></a>                   
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\therefore$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\therefore$" title="$\therefore$" /></a>
+
+
+       
 
 
 
