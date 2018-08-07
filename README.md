@@ -140,7 +140,13 @@ And then based on the similarity
 we know that
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;HD&space;\mid&space;/&space;\mid&space;HB&space;\mid&space;=&space;\mid&space;HK&space;\mid&space;/&space;\mid&space;HD&space;\mid$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;HD&space;\mid&space;/&space;\mid&space;HB&space;\mid&space;=&space;\mid&space;HK&space;\mid&space;/&space;\mid&space;HD&space;\mid$" title="$\mid HD \mid / \mid HB \mid = \mid HK \mid / \mid HD \mid$" /></a>              
 so that we can obtain
-<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" title="$\mid HK \mid = \mid HD \mid^{2}/ \mid HB \mid = \sqrt{7}/14$" /></a>          
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;HK&space;\mid&space;=&space;\mid&space;HD&space;\mid^{2}/&space;\mid&space;HB&space;\mid&space;=&space;\sqrt{7}/14$" title="$\mid HK \mid = \mid HD \mid^{2}/ \mid HB \mid = \sqrt{7}/14$" /></a>
+and
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;KB&space;\mid&space;=&space;\mid&space;HB&space;\mid&space;-&space;\mid&space;HK&space;\mid&space;=&space;3\sqrt{7}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;KB&space;\mid&space;=&space;\mid&space;HB&space;\mid&space;-&space;tanke\mid&space;HK&space;\mid&space;=&space;3\sqrt{7}/7$" title="$\mid KB \mid = \mid HB \mid - \mid HK \mid = 3\sqrt{7}/7$" /></a>          
+Then we move the extracted figure (c) back to the equilateral triangle in figure (a), we can obtain that
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;PB&space;\mid&space;=&space;\mid&space;KB&space;\mid&space;=&space;3\sqrt{7}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;PB&space;\mid&space;=&space;\mid&space;KB&space;\mid&space;=&space;3\sqrt{7}/7$" title="$\mid PB \mid = \mid KB \mid = 3\sqrt{7}/7$" /></a>                    
+Thus in terms of the triangle in figure (b), we have known the length |PB|, |BC|, and ∠PBC=∠ODA, which means that we have obtained enough characteristics to describe the triangle ▲PBC. Currently the last mystery in figure (b) of the integrated map is the triangle ▲ODA.           
+
 
 
             
