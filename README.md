@@ -145,7 +145,12 @@ and
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;KB&space;\mid&space;=&space;\mid&space;HB&space;\mid&space;-&space;\mid&space;HK&space;\mid&space;=&space;3\sqrt{7}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;KB&space;\mid&space;=&space;\mid&space;HB&space;\mid&space;-&space;tanke\mid&space;HK&space;\mid&space;=&space;3\sqrt{7}/7$" title="$\mid KB \mid = \mid HB \mid - \mid HK \mid = 3\sqrt{7}/7$" /></a>          
 Then we move the extracted figure (c) back to the equilateral triangle in figure (a), we can obtain that
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;PB&space;\mid&space;=&space;\mid&space;KB&space;\mid&space;=&space;3\sqrt{7}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;PB&space;\mid&space;=&space;\mid&space;KB&space;\mid&space;=&space;3\sqrt{7}/7$" title="$\mid PB \mid = \mid KB \mid = 3\sqrt{7}/7$" /></a>                    
-Thus in terms of the triangle in figure (b), we have known the length |PB|, |BC|, and ∠PBC=∠ODA, which means that we have obtained enough characteristics to describe the triangle ▲PBC. Currently the last mystery in figure (b) of the integrated map is the triangle ▲ODA.           
+Thus in terms of the triangle in figure (b), we have known the length |PB|, |BC|, and ∠PBC=∠ODA, which means that we have obtained enough characteristics to describe the triangle ▲PBC. Currently the last mystery in figure (b) of the integrated map is the triangle ▲ODA.            
+              
+Based on the Pythagorean theorem, we can obtain that               
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;AD&space;\mid&space;=&space;\sqrt{\mid&space;AI&space;\mid^{2}&plus;\mid&space;DI&space;\mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}&plus;(1/2)^{2}}=\sqrt{7}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;AD&space;\mid&space;=&space;\sqrt{\mid&space;AI&space;\mid^{2}&plus;\mid&space;DI&space;\mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}&plus;(1/2)^{2}}=\sqrt{7}$" title="$\mid AD \mid = \sqrt{\mid AI \mid^{2}+\mid DI \mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}+(1/2)^{2}}=\sqrt{7}$" /></a>                
+
+
 
 
 
