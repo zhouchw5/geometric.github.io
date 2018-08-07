@@ -149,6 +149,13 @@ Thus in terms of the triangle in figure (b), we have known the length |PB|, |BC|
               
 Based on the Pythagorean theorem, we can obtain that               
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\mid&space;AD&space;\mid&space;=&space;\sqrt{\mid&space;AI&space;\mid^{2}&plus;\mid&space;DI&space;\mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}&plus;(1/2)^{2}}=\sqrt{7}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\mid&space;AD&space;\mid&space;=&space;\sqrt{\mid&space;AI&space;\mid^{2}&plus;\mid&space;DI&space;\mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}&plus;(1/2)^{2}}=\sqrt{7}$" title="$\mid AD \mid = \sqrt{\mid AI \mid^{2}+\mid DI \mid^{2}}=\sqrt{(3\sqrt{3}/2)^{2}+(1/2)^{2}}=\sqrt{7}$" /></a>                
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\because&space;\mid&space;PB&space;\mid&space;/&space;\mid&space;OD&space;\mid&space;=(3\sqrt{7}/7)/1=3\sqrt{7}/7,\&space;\mid&space;BC&space;\mid&space;/&space;\mid&space;AD&space;\mid&space;=&space;3/(\sqrt{7})=3\sqrt{7}/7$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\because&space;\mid&space;PB&space;\mid&space;/&space;\mid&space;OD&space;\mid&space;=(3\sqrt{7}/7)/1=3\sqrt{7}/7,\&space;\mid&space;BC&space;\mid&space;/&space;\mid&space;AD&space;\mid&space;=&space;3/(\sqrt{7})=3\sqrt{7}/7$" title="$\because \mid PB \mid / \mid OD \mid =(3\sqrt{7}/7)/1=3\sqrt{7}/7,\ \mid BC \mid / \mid AD \mid = 3/(\sqrt{7})=3\sqrt{7}/7$" /></a>               
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\therefore&space;\mid&space;PB&space;\mid&space;/&space;\mid&space;OD&space;\mid&space;=&space;\mid&space;BC&space;\mid&space;/&space;\mid&space;AD&space;\mid$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\therefore&space;\mid&space;PB&space;\mid&space;/&space;\mid&space;OD&space;\mid&space;=&space;\mid&space;BC&space;\mid&space;/&space;\mid&space;AD&space;\mid$" title="$\therefore \mid PB \mid / \mid OD \mid = \mid BC \mid / \mid AD \mid$" /></a>            
+And then considering the former situation we have obtained, ∠PBC=∠ODA, we can obtain that
+<a href="https://www.codecogs.com/eqnedit.php?latex=$\triangle&space;PBC&space;\simeq&space;\triangle&space;ODA$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\triangle&space;PBC&space;\simeq&space;\triangle&space;ODA$" title="$\triangle PBC \simeq \triangle ODA$" /></a>              
+Thus subsequently we can obtain that ∠OAD = ∠PCB, and ∠PJA = ∠CJI, we can finally obtain ∠APC = ∠AIC = 90°.          
+We can finally conclude that
+<a href="https://www.codecogs.com/eqnedit.php?latex=$AP&space;\bot&space;CP$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$AP&space;\bot&space;CP$" title="$AP \bot CP$" /></a>                 
 
 
 
