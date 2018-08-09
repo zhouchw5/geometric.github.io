@@ -1,5 +1,7 @@
 ## A Skyscraper and An Innovative Geometrical Method      
+- **Still with my original insistence, your footprint in my website would not be markded or stored. I always wish a zero intersection with me after your reading, nothing but some interesting memory merely in your mind, no storage for the Like or reader amount. Your ever presence is enough.**          
 
+         
 This article is telling the past when I grabbed the indication from the shape of a skycraper and figured out an innovative way to solve 
 a geometric problem in my second grade in high school. The key words in this article are Geometry, Skycraper, and Checkers.
 
